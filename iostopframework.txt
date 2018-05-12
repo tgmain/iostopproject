@@ -6,10 +6,14 @@ https://github.com/lkzhao/Hero
 * animation transition 
 https://github.com/marcosgriselli/ViewAnimator
 https://github.com/willowtreeapps/spruce-ios
-
+https://github.com/material-motion/material-motion-swift
 
 skeletionView, async waiting content: 
 https://github.com/Juanpe/SkeletonView
+
+Best Scroling view like carousel:
+https://github.com/shoheiyokoyama/Gemini
+
 
 Constraint: 
 https://github.com/willowtreeapps/spruce-ios
@@ -17,5 +21,17 @@ https://github.com/willowtreeapps/spruce-ios
 collectionKit: 
 https://github.com/SoySauceLab/CollectionKit
 
+ARKit:
+https://github.com/ProjectDent/ARKit-CoreLocation
 
+
+SwipeCell:
+https://github.com/SwipeCellKit/SwipeCellKit
+
+BulletinBoard:
+https://github.com/alexaubry/BulletinBoard
+
+
+webframework:
+https://github.com/vapor/vapor
 
