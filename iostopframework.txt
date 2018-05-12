@@ -1,0 +1,18 @@
+Animation:
+
+* viewcontroller transition 
+https://github.com/lkzhao/Hero
+
+* animation transition 
+https://github.com/marcosgriselli/ViewAnimator
+https://github.com/willowtreeapps/spruce-ios
+
+
+skeletionView, async waiting content: 
+https://github.com/Juanpe/SkeletonView
+
+Constraint: 
+https://github.com/willowtreeapps/spruce-ios
+
+
+
