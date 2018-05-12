@@ -15,6 +15,7 @@ Constraint:
 https://github.com/willowtreeapps/spruce-ios
 
 collectionKit: 
+https://github.com/SoySauceLab/CollectionKit
 
 
 
